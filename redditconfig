@@ -1,11 +1,11 @@
 {
 	"bot": [
-		"https://storage.c7x.dev/anelfer/test/reddit2.png",
-		"https://storage.c7x.dev/anelfer/test/reddit2.png"
+		"https://storage.c7x.dev/anelfer/test/reddit3.png",
+		"https://storage.c7x.dev/anelfer/test/reddit3.png"
 	],
 	"mask": [
-		"https://storage.c7x.dev/anelfer/test/reddit2.png",
-		"https://storage.c7x.dev/anelfer/test/reddit2.png"
+		"https://storage.c7x.dev/anelfer/test/reddit3.png",
+		"https://storage.c7x.dev/anelfer/test/reddit3.png"
 	],
 	"offX": 1000,
 	"offY": 500,
