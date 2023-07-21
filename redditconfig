@@ -1,0 +1,13 @@
+{
+	"bot": [
+		"https://storage.c7x.dev/anelfer/test/test-redd1.png",
+		"https://storage.c7x.dev/anelfer/test/test-redd1.png"
+	],
+	"mask": [
+		"https://storage.c7x.dev/anelfer/test/test-redd1.png",
+		"https://storage.c7x.dev/anelfer/test/test-redd1.png"
+	],
+	"offX": 1000,
+	"offY": 500,
+	"mux": false
+}
