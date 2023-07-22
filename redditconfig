@@ -1,13 +1,13 @@
 {
 	"bot": [
-		"https://storage.c7x.dev/anelfer/test/reddit5.png",
+		"https://storage.c7x.dev/anelfer/test/reddit6.png",
 		"https://cdn.discordapp.com/attachments/799172768947896320/1132229092163452978/reddit5.png"
 	],
 	"mask": [
-		"https://storage.c7x.dev/anelfer/test/reddit5_mask.png",
+		"https://storage.c7x.dev/anelfer/test/reddit6_mask.png",
 		"https://cdn.discordapp.com/attachments/799172768947896320/1132229587535933440/reddit5_mask.png"
 	],
-	"offX": 500,
-	"offY": 500,
+	"offX": 0,
+	"offY": 0,
 	"mux": false
 }
