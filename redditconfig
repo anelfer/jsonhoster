@@ -1,13 +1,13 @@
 {
 	"bot": [
-		"https://cdn.discordapp.com/attachments/799172768947896320/1132072620079202344/reddit4.png",
-		"https://cdn.discordapp.com/attachments/799172768947896320/1132072620079202344/reddit4.png"
+		"https://cdn.discordapp.com/attachments/799172768947896320/1132229092163452978/reddit5.png",
+		"https://cdn.discordapp.com/attachments/799172768947896320/1132229092163452978/reddit5.png"
 	],
 	"mask": [
-		"https://cdn.discordapp.com/attachments/799172768947896320/1132072620079202344/reddit4.png",
-		"https://cdn.discordapp.com/attachments/799172768947896320/1132072620079202344/reddit4.png"
+		"https://cdn.discordapp.com/attachments/799172768947896320/1132229587535933440/reddit5_mask.png",
+		"https://cdn.discordapp.com/attachments/799172768947896320/1132229587535933440/reddit5_mask.png"
 	],
-	"offX": 1000,
-	"offY": 500,
+	"offX": 0,
+	"offY": 0,
 	"mux": false
 }
