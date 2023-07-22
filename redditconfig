@@ -7,7 +7,7 @@
 		"https://storage.c7x.dev/anelfer/test/reddit5_mask.png",
 		"https://cdn.discordapp.com/attachments/799172768947896320/1132229587535933440/reddit5_mask.png"
 	],
-	"offX": 0,
-	"offY": 0,
+	"offX": -1000,
+	"offY": -500,
 	"mux": false
 }
